@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COVID-19 App</string>
+    <string name="click_me">Click Me!</string>
+    <string name="fetched_text_here">Fetched text here</string>
+    <string name="covid_19_information_update">COVID-19 Information Update</string>
+    <string name="click_to_get_information">Click to get information</string>
+    <string name="type_in_a_state_name">Type in a state name</string>
+</resources>
